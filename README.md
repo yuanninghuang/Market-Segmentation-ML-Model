@@ -1,4 +1,4 @@
-# macs30100_project1_Violet Huang_April Wang_Zenthia Song
+# Machine Learning Project_Violet Huang_April Wang_Zenthia Song
 
 Customer Segmentation Classification project for MACS 30100
 
